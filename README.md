@@ -1,4 +1,4 @@
-# 👋  Hi there, Allan here! 
+# 👋  Hi there
 
 
 ## 🚀 About me
