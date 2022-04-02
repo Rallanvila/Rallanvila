@@ -10,7 +10,11 @@ I’m a **Full-Stack Web Developer** that specializes in React applications. I�
 
 🏋🏼‍♂️ Outside of tech, I enjoy pushing myself to develop new skills and love spending time with the fam. I’m always learning new things to **cook**, geeking out my **desk setup**, **gym**, **family outings** then rest to start all over! 
 
-📚 I also love watching videos and books on personal development and productivity to make our 24hrs count. My favorite ones are **Make Time** by Jake Knapp and John Zeratsky, **Atomic Habits** by James Clear and **Show Your Work** by Austin Kleon
+📚 I also love watching videos and books on personal development and productivity to make our 24hrs count. My favorite ones are **Make Time** by Jake Knapp and John Zeratsky, **Atomic Habits** by James Clear and **Show Your Work** by Austin Kleon.
+
+## 🥇 Acheivments: 
+* Wrote first line of code in Nov 2020, hired as FT Developer in June 2021 at Naval Systems Inc.
+* First blog post **Hired Imposter's Secrets => (Be an Imposter)** was featured on Hashnode.dev and Daily.dev with over 1000 viws and 100 reactions in the first week. 
 <!--
 **Rallanvila/Rallanvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
