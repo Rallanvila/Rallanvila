@@ -15,6 +15,7 @@ I’m a self-taught **Full-Stack Web Developer** that specializes in React appli
 ## 🥇 Acheivments: 
 * Wrote first line of code in Nov 2020, hired as FT Developer in June 2021 at Naval Systems Inc.
 * My first blog post **Hired Imposter's Secrets => (Be an Imposter)** was featured on Hashnode.dev and Daily.dev with over 1000 viws and 100 reactions in the first week. 
+* * HashNode's "Tuesday's Spotlight" 4/19/2022 Featured Blogger. 
 <!--
 **Rallanvila/Rallanvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
