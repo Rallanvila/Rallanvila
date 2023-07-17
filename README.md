@@ -17,7 +17,6 @@ I’m a self-taught **Full-Stack Web Developer** that specializes in React appli
 * My first blog post **Hired Imposter's Secrets => (Be an Imposter)** was featured on Hashnode.dev and Daily.dev with over 1000 viws and 100 reactions in the first week. 
 * HashNode's "Tuesday's Spotlight" 4/19/2022 Featured Blogger.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rallanvila)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Rallanvila/Rallanvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
