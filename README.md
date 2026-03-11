@@ -18,6 +18,12 @@ company's API.)
 
 ---
 
+<div align="center">
+
+![system-stats](./assets/sys-stats.png)
+
+</div>
+
 ### $ whoami --verbose
 
 I am a minimalist web architect bridging the gap between "Hacker-Chic"
@@ -36,87 +42,29 @@ exist.
 
 ### 🛠️ The Tech Stacks
 
-<div align="center">
+| Specification   | 🚀 `[Aspiring_Neckbeard-Lab]`             | 🏛️ `[enterprise/ops]`           |
+| :-------------- | :---------------------------------------- | :------------------------------ |
+| **Philosophy**  | _2026 High-Performance Standard_          | _Deep State & Scalable Systems_ |
+| **Framework**   | Next.js 16 (App Router) + React 19        | Next.js 14 + React 18           |
+| **Logic/State** | TypeScript + **Zustand** + Server Actions | Redux Toolkit + Axios           |
+| **Styling**     | Tailwind v4 + Shadcn UI + Framer Motion   | Material UI + AOS               |
+| **Icons/UI**    | Lucide + Radix UI                         | Material Icons + i18next        |
+| **Reliability** | Strict Typing (0% casting)                | Jest + Playwright + ESLint 9    |
+| **Runtime**     | **Node.js (>=20)**                        | **Node.js (>=18)**              |
 
-![system-stats](./assets/sys-stats.png)
+---
 
-</div>
-#### [Bleeding Edge] — _The Aspiring_Neckbeard Lab_
-### 🛠️ The Arsenal
+### ⌨️ Base Environment `(Global)`
 
-| Specification   | `[the-lab/experimental]`           | `[enterprise/ops]`           |
-| :-------------- | :--------------------------------- | :--------------------------- |
-| **Framework**   | Next.js 16 (App Router) + React 19 | Next.js 14 + React 18        |
-| **Logic/State** | TypeScript 5.9 + Server Actions    | Redux Toolkit + Axios        |
-| **Styling**     | Tailwind v4 + Framer Motion        | Material UI + AOS            |
-| **Icons/UI**    | Lucide + Radix UI                  | Material Icons + i18next     |
-| **Reliability** | Strict Typing (0% casting)         | Jest + Playwright + ESLint 9 |
-| **Runtime**     | pnpm 10.x                          | Node (>=20)                  |
-
-```ansi
-$ launchpad-stack --compare
-
-[the-lab/bleeding-edge]
-├─ Framework: Next.js 16.1.6 (App Router)
-├─ Runtime:   pnpm 10.31.0
-├─ Core:      React 19.2.3 + TypeScript 5.9
-└─ UI:        Tailwind v4 + Shadcn + Lucide
-
-[enterprise/ops]
-├─ Framework: Next.js 14.2.35
-├─ State:     Redux Toolkit + React Hook Form
-├─ Testing:   Playwright + Jest + ESLint 9
-└─ UI:        Material UI + i18next + AOS
-```
-
-```bash
-$ launchpad-stack --compare
-
-[the-lab/bleeding-edge]
-├─ Framework: Next.js 16.1.6 (App Router)
-├─ Runtime:   pnpm 10.31.0
-├─ Core:      React 19.2.3 + TypeScript 5.9
-└─ UI:        Tailwind v4 + Shadcn + Lucide
-
-[enterprise/ops]
-├─ Framework: Next.js 14.2.35
-├─ State:     Redux Toolkit + React Hook Form
-├─ Testing:   Playwright + Jest + ESLint 9
-└─ UI:        Material UI + i18next + AOS
-```
-
-```text
-$ launchpad-stack --compare
-
-[the-lab/bleeding-edge]
-├─ Framework: Next.js 16.1.6 (App Router)
-├─ Runtime:   pnpm 10.31.0
-├─ Core:      React 19.2.3 + TypeScript 5.9
-└─ UI:        Tailwind v4 + Shadcn + Lucide
-
-[enterprise/ops]
-├─ Framework: Next.js 14.2.35
-├─ State:     Redux Toolkit + React Hook Form
-├─ Testing:   Playwright + Jest + ESLint 9
-└─ UI:        Material UI + i18next + AOS
-```
-
-Modern, high-performance builds focused on the 2026 standard.
-
-**Runtime:** `pnpm` (10.x), `node` (>=20)  
-**Framework:** `Next.js 16` (App Router) + `React 19`  
-**State/Logic:** `Redux Toolkit`, `Axios`, `React Hook Form`  
-**Styling:** `Tailwind CSS v4` + `Framer Motion` + `Shadcn UI`  
-**Architecture:** `TypeScript 5.9`, `Lucide Icons`, `Radix UI`
-
-#### [Enterprise Ops] — _Work Environment_
-
-Robust, scalable systems with deep state management and testing.
-
-**Framework:** `Next.js 14`, `React 18`  
-**State/Logic:** `Redux Toolkit`, `Axios`, `React Hook Form`  
-**UI System:** `Material UI`, `AOS`, `i18next`  
-**Reliability:** `Jest`, `Playwright`, `ESLint 9`
+| Component      | Stack Specification                                                                       |
+| :------------- | :---------------------------------------------------------------------------------------- |
+| **OS**         | **Arch Linux** (I use it, btw)                                                            |
+| **Terminal**   | **Ghostty** + **Tmux** (Multiplexed local-first workflow) + Sesh                          |
+| **Shell**      | **Zsh** for quality of life living in my terminal, and **Bash** for heavy-duty automation |
+| **Editor**     | **Neovim** (Configured via `Snacks.nvim`)                                                 |
+| **RIP**        | `Telescope.nvim` 🪦 _(Snacks.picker is just faster)_                                      |
+| **Completion** | **blink.cmp** (Rust-powered speed > nvim-cmp)                                             |
+| **Hardware**   | **Glove80** (Ortholinear or bust)                                                         |
 
 ---
 
@@ -131,25 +79,9 @@ I don't just write code; I kill technical debt.
 
 ---
 
-### 🛠️ The Arsenal
-
-[![](https://img.shields.io/badge/Stack-Next.js_16-1e3a5f?style=flat-square&logo=next.js&logoColor=white)]()
-[![](https://img.shields.io/badge/Logic-TypeScript-F2711C?style=flat-square&logo=typescript&logoColor=white)]()
-[![](https://img.shields.io/badge/Automation-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)]()
-[![](https://img.shields.io/badge/Performance-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)]()
-
-> **Note:** Stats are private to keep the technical debt collectors at bay. I
-> build in "Deep Space" (private repos) more than in the public orbit.
-
----
-
 ### 🌲 Digital Garden
 
 - **~/scripts:** Custom pipelines that automate my headaches away.
 - **~/mentorship:** Architectural code reviews for those ready to leave the
   `div-soup` behind.
 - **~/oss:** Contributing to the TUI tools that keep the ecosystem alive.
-
-<div align="center">
-  <sub>`~/launchpad/dev` — Build it lean, or don't build it at all.</sub>
-</div>
