@@ -1,8 +1,8 @@
 # ~/rallanvila
 
 <div align="center">
-![Neckbeard Avatar](./assets/neckbeard_hero.webp)
-<img src"./assets/neckbeard_hero.web" width="200" alt=Neckbeard Avatar />
+
+![Neckbeard Avatar](./assets/neckbeard_thumb.webp)
 
 ### High-Velocity Engineering • Unix Philosophy • Keyboard-Centric Workflow
 
