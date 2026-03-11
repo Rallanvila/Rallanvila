@@ -1,36 +1,69 @@
-# 👋  Hey there
+# ~/rallanvila
 
-## 🚀 About me
+<div align="center">
 
-I’m a self-taught Full-Stack Web Developer that specializes in React applications. Covid hit, and I wanted a change with a better work/life balance. Managing a 50-60hr sales work week, father of  two, and loving fiance. I’d code from 9:30pm - 2:30am and land a full-time developer position in 7months! 
+![Neckbeard Avatar](./assets/neckbeard_thumb.webp)
 
-🧑🏻‍💻 I use Typescript, Next.js, Material-UI, Redux Toolkit, and an endless amount of libs based on our company's and client's unique needs.
+### High-Velocity Engineering • Unix Philosophy • Keyboard-Centric Workflow
 
-🏋🏼‍♂️ Outside of tech, family life, husky dad, gym, movies. 
+**I use Arch, btw.** (And yes, my `.dotfiles` are better documented than your
+company's API.)
 
-🌱 I’m learning CI/CD and becoming a GitHub Actions Jedi.
+[![](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
+[![](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
+[![](https://img.shields.io/badge/Hardware-Glove80-F2711C?style=for-the-badge&logo=keyboard&logoColor=white)]()
+[![](https://img.shields.io/badge/Shell-Zsh+%20Tmux-1E3A5F?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
-<br/>
+</div>
 
- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40rallanvila)](https://twitter.com/rallanvila)
-<br/>
+---
 
-## 🥇 Acheivments: 
-* Wrote the first line of code in Nov 2020, hired as FT Developer in June 2021 at Naval Systems Inc.
-* My first blog post **Hired Imposter's Secrets => (Be an Imposter)** was featured on Hashnode.dev and Daily.dev with over 1000 views and 100 reactions in the first week. 
-* HashNode's "Tuesday's Spotlight" 4/19/2022 Featured Blogger.
+<div align="center">
 
-<!--
-**Rallanvila/Rallanvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![system-stats](./assets/sys-stats.png)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
+### $ whoami --verbose
 
-📫 How to reach me: 
-- ⚡ Fun fact: ...
--->
+I am a minimalist web architect bridging the gap between "Hacker-Chic"
+engineering and enterprise-grade delivery. I believe if you have to do it twice
+manually, you script it. If it doesn't have a keyboard shortcut, it doesn't
+exist.
+
+- **Keyboard:** Glove 80 (because standard layouts are for the uninitiated).
+- **Philosophy:** Unix ("Do one thing and do it well").
+- **Workflow:** Local-first, terminal-only, 0% bloat.
+- **Current Status:** Architecting scalable new features and engineering
+  high-traffic pipelines. Killing technical debt and refactoring placeholder
+  sites into 0% bloat, enterprise-grade platforms.
+
+---
+
+### 🛠️ The Tech Stacks
+
+| Specification   | 🚀 `[Aspiring_Neckbeard-Lab]`             | 🏛️ `[enterprise/ops]`           |
+| :-------------- | :---------------------------------------- | :------------------------------ |
+| **Philosophy**  | _2026 High-Performance Standard_          | _Deep State & Scalable Systems_ |
+| **Framework**   | Next.js 16 (App Router) + React 19        | Next.js 14 + React 18           |
+| **Logic/State** | TypeScript + **Zustand** + Server Actions | Redux Toolkit + Axios           |
+| **Styling**     | Tailwind v4 + Shadcn UI + Framer Motion   | Material UI + AOS               |
+| **Icons/UI**    | Lucide + Radix UI                         | Material Icons + i18next        |
+| **Reliability** | Strict Typing (0% casting)                | Jest + Playwright + ESLint 9    |
+| **Runtime**     | **Node.js (>=20)**                        | **Node.js (>=18)**              |
+
+---
+
+### ⌨️ Base Environment `(Global)`
+
+| Component      | Stack Specification                                                                       |
+| :------------- | :---------------------------------------------------------------------------------------- |
+| **OS**         | **Arch Linux** (I use it, btw)                                                            |
+| **Terminal**   | **Ghostty** + **Tmux** (Multiplexed local-first workflow) + Sesh                          |
+| **Shell**      | **Zsh** for quality of life living in my terminal, and **Bash** for heavy-duty automation |
+| **Editor**     | **Neovim** (Configured via `Snacks.nvim`)                                                 |
+| **RIP**        | `Telescope.nvim` 🪦 _(Snacks.picker is just faster)_                                      |
+| **Completion** | **blink.cmp** (Rust-powered speed > nvim-cmp)                                             |
+| **Hardware**   | **Glove80** (Ortholinear or bust)                                                         |
+
+---
