@@ -67,21 +67,3 @@ exist.
 | **Hardware**   | **Glove80** (Ortholinear or bust)                                                         |
 
 ---
-
-### 🚀 Engineering Standards
-
-I don't just write code; I kill technical debt.
-
-- **Type Safety:** Strictly typed `interface Props`. No `any`, no typecasting.
-- **Performance:** 100/100 Core Web Vitals. Server-First by default.
-- **Aesthetic:** Bento-grid layouts and Terminal-Core UI elements.
-- **Efficiency:** "If I'm using the mouse, I've already failed."
-
----
-
-### 🌲 Digital Garden
-
-- **~/scripts:** Custom pipelines that automate my headaches away.
-- **~/mentorship:** Architectural code reviews for those ready to leave the
-  `div-soup` behind.
-- **~/oss:** Contributing to the TUI tools that keep the ecosystem alive.
