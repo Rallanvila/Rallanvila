@@ -36,23 +36,87 @@ exist.
 
 ### 🛠️ The Tech Stacks
 
-#### [Bleeding Edge] — _Launchpad Labs_
+<div align="center">
+
+![system-stats](./assets/sys-stats.png)
+
+</div>
+#### [Bleeding Edge] — _The Aspiring_Neckbeard Lab_
+### 🛠️ The Arsenal
+
+| Specification   | `[the-lab/experimental]`           | `[enterprise/ops]`           |
+| :-------------- | :--------------------------------- | :--------------------------- |
+| **Framework**   | Next.js 16 (App Router) + React 19 | Next.js 14 + React 18        |
+| **Logic/State** | TypeScript 5.9 + Server Actions    | Redux Toolkit + Axios        |
+| **Styling**     | Tailwind v4 + Framer Motion        | Material UI + AOS            |
+| **Icons/UI**    | Lucide + Radix UI                  | Material Icons + i18next     |
+| **Reliability** | Strict Typing (0% casting)         | Jest + Playwright + ESLint 9 |
+| **Runtime**     | pnpm 10.x                          | Node (>=20)                  |
+
+```ansi
+$ launchpad-stack --compare
+
+[the-lab/bleeding-edge]
+├─ Framework: Next.js 16.1.6 (App Router)
+├─ Runtime:   pnpm 10.31.0
+├─ Core:      React 19.2.3 + TypeScript 5.9
+└─ UI:        Tailwind v4 + Shadcn + Lucide
+
+[enterprise/ops]
+├─ Framework: Next.js 14.2.35
+├─ State:     Redux Toolkit + React Hook Form
+├─ Testing:   Playwright + Jest + ESLint 9
+└─ UI:        Material UI + i18next + AOS
+```
+
+```bash
+$ launchpad-stack --compare
+
+[the-lab/bleeding-edge]
+├─ Framework: Next.js 16.1.6 (App Router)
+├─ Runtime:   pnpm 10.31.0
+├─ Core:      React 19.2.3 + TypeScript 5.9
+└─ UI:        Tailwind v4 + Shadcn + Lucide
+
+[enterprise/ops]
+├─ Framework: Next.js 14.2.35
+├─ State:     Redux Toolkit + React Hook Form
+├─ Testing:   Playwright + Jest + ESLint 9
+└─ UI:        Material UI + i18next + AOS
+```
+
+```text
+$ launchpad-stack --compare
+
+[the-lab/bleeding-edge]
+├─ Framework: Next.js 16.1.6 (App Router)
+├─ Runtime:   pnpm 10.31.0
+├─ Core:      React 19.2.3 + TypeScript 5.9
+└─ UI:        Tailwind v4 + Shadcn + Lucide
+
+[enterprise/ops]
+├─ Framework: Next.js 14.2.35
+├─ State:     Redux Toolkit + React Hook Form
+├─ Testing:   Playwright + Jest + ESLint 9
+└─ UI:        Material UI + i18next + AOS
+```
 
 Modern, high-performance builds focused on the 2026 standard.
 
-- **Runtime:** `pnpm` (10.x), `node` (>=20)
-- **Framework:** `Next.js 16` (App Router) + `React 19`
-- **Styling:** `Tailwind CSS v4` + `Framer Motion`
-- **Architecture:** `TypeScript 5.9`, `Lucide Icons`, `Radix UI`
+**Runtime:** `pnpm` (10.x), `node` (>=20)  
+**Framework:** `Next.js 16` (App Router) + `React 19`  
+**State/Logic:** `Redux Toolkit`, `Axios`, `React Hook Form`  
+**Styling:** `Tailwind CSS v4` + `Framer Motion` + `Shadcn UI`  
+**Architecture:** `TypeScript 5.9`, `Lucide Icons`, `Radix UI`
 
 #### [Enterprise Ops] — _Work Environment_
 
 Robust, scalable systems with deep state management and testing.
 
-- **Framework:** `Next.js 14`, `React 18`
-- **State/Logic:** `Redux Toolkit`, `Axios`, `React Hook Form`
-- **UI System:** `Material UI`, `AOS`, `i18next`
-- **Reliability:** `Jest`, `Playwright`, `ESLint 9`
+**Framework:** `Next.js 14`, `React 18`  
+**State/Logic:** `Redux Toolkit`, `Axios`, `React Hook Form`  
+**UI System:** `Material UI`, `AOS`, `i18next`  
+**Reliability:** `Jest`, `Playwright`, `ESLint 9`
 
 ---
 
